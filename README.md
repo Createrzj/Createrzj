@@ -4,7 +4,6 @@
 
 [![Spark Lab S1 #2 Place](https://spark-lab.city/api/badge?session=1&prize=2)](https://spark-lab.city)
 
-⚡Oais is under construction！！！
 <!--
 **Createrzj/Createrzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
